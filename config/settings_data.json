@@ -1,0 +1,59 @@
+{
+  "current": {
+    "logo_height": 40,
+    "logo_height_mobile": 32,
+    "color_schemes": {
+      "scheme-1": {
+        "id": "scheme-1",
+        "name": "DemandDone Primary",
+        "settings": {
+          "background": "#FFFFFF",
+          "foreground_heading": "#000000",
+          "foreground": "#1A1A1A",
+          "primary": "#007BC8",
+          "primary_hover": "#005A93",
+          "border": "#E0E0E0",
+          "shadow": "#000000",
+          "primary_button_background": "#007BC8",
+          "primary_button_text": "#FFFFFF",
+          "primary_button_border": "#007BC8",
+          "primary_button_hover_background": "#005A93",
+          "primary_button_hover_text": "#FFFFFF",
+          "primary_button_hover_border": "#005A93",
+          "secondary_button_background": "#FFFFFF",
+          "secondary_button_text": "#007BC8",
+          "secondary_button_border": "#007BC8",
+          "secondary_button_hover_background": "#F0F8FF",
+          "secondary_button_hover_text": "#005A93",
+          "secondary_button_hover_border": "#005A93"
+        }
+      },
+      "scheme-2": {
+        "id": "scheme-2",
+        "name": "DemandDone Accent",
+        "settings": {
+          "background": "#FFC600",
+          "foreground_heading": "#000000",
+          "foreground": "#1A1A1A",
+          "primary": "#007BC8",
+          "primary_hover": "#005A93",
+          "border": "#E0E0E0",
+          "shadow": "#000000",
+          "primary_button_background": "#FFC600",
+          "primary_button_text": "#1A1A1A",
+          "primary_button_border": "#FFC600",
+          "primary_button_hover_background": "#FFB800",
+          "primary_button_hover_text": "#1A1A1A",
+          "primary_button_hover_border": "#FFB800"
+        }
+      }
+    },
+    "type_header_font": "Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif",
+    "type_body_font": "Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif",
+    "body_scale": 16,
+    "heading_scale": 1.25,
+    "style_border_radius_buttons": 8,
+    "style_border_radius_cards": 12,
+    "style_border_radius_inputs": 6
+  }
+}

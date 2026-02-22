@@ -1,0 +1,80 @@
+{
+  "sections": {
+    "hero": {
+      "type": "hero",
+      "settings": {
+        "heading": "Stop Gambling on Products",
+        "subheading": "AI-powered opportunity discovery for UK dropshipping",
+        "button_label_1": "Get Started",
+        "button_link_1": "/pages/signup",
+        "button_label_2": "View Demo",
+        "button_link_2": "/pages/demo",
+        "color_scheme": "scheme-1"
+      }
+    },
+    "features": {
+      "type": "multicolumn",
+      "settings": {
+        "title": "How DemandDone Works",
+        "columns_desktop": 3,
+        "column_alignment": "center"
+      },
+      "blocks": [
+        {
+          "type": "column",
+          "settings": {
+            "title": "Discover Opportunities",
+            "text": "AI agent scans Google Trends and market signals to find trending product clusters",
+            "icon": "search"
+          }
+        },
+        {
+          "type": "column",
+          "settings": {
+            "title": "Score & Rank",
+            "text": "6-dimension scoring: demand, competition, differentiation, friction, compliance",
+            "icon": "chart"
+          }
+        },
+        {
+          "type": "column",
+          "settings": {
+            "title": "Test & Validate",
+            "text": "Generate test plans with predicted revenue, costs, and operational risks",
+            "icon": "check"
+          }
+        }
+      ]
+    },
+    "social_proof": {
+      "type": "testimonials",
+      "settings": {
+        "title": "Trusted by UK Micro-Merchants",
+        "color_scheme": "scheme-2"
+      },
+      "blocks": [
+        {
+          "type": "testimonial",
+          "settings": {
+            "quote": "DemandDone saved me from wasting £2,000 on bad products",
+            "author": "Sarah M.",
+            "subtitle": "Manchester"
+          }
+        },
+        {
+          "type": "testimonial",
+          "settings": {
+            "quote": "Found my first profitable niche in week 1",
+            "author": "James T.",
+            "subtitle": "London"
+          }
+        }
+      ]
+    }
+  },
+  "order": [
+    "hero",
+    "features",
+    "social_proof"
+  ]
+}
